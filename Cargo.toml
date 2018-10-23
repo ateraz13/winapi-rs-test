@@ -1,8 +1,7 @@
 [package]
 name = "win32-test"
 version = "0.1.0"
-authors = ["Spline"]
-edition = "2018"
+license = "MIT"
 
 [dependencies]
 winapi = "0.2.*"
